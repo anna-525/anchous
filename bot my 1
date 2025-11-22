@@ -2,7 +2,7 @@
 // @name         My Bot
 // @namespace    http://tampermonkey.net/
 // @version      1.1
-// @description  try to take over the world!
+// @description  the whole world is at your feet!
 // @author       Anna Lobaheva
 // @match        https://ya.ru//*
 // @grant        none
